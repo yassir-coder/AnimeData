@@ -1,7 +1,7 @@
 {
 	"GuideData": {
 		"AdsController": {
-
+		
 			"BannerAd": "",
 			"InterstitialAd": "admob",
 			"NativeAd": "",
@@ -52,6 +52,7 @@
 		},
 
 		"items": [
+		
 			{
 				"title": "خيط القدر الأحمر",
 				"image": "https://i.postimg.cc/HkGLPjWj/a11b518ef2867079160f57b8849b1675.jpg",
