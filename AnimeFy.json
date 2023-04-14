@@ -25,10 +25,10 @@
 			"NativeAdsAc4": "max",
 			"NativeAdsAc5": "max",
 
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-			"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
+			"BannerAdmob": "ca-app-pub-9656443482471903/7646544743",
+			"InterAdmob":  "ca-app-pub-9656443482471903/6824417663",
+			"NativeAdmob": "ca-app-pub-9656443482471903/5511335997",
+			"OpenAdmob":   "ca-app-pub-9656443482471903/8193339650",
 
 			"MaxBanner": "26712346ec4295bc",
 			"MaxInter": "05b9d1424e86e59f",
