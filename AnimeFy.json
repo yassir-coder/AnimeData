@@ -12,17 +12,17 @@
 			"Gift": "no",
 
 			"BannerAdsAc1": "admob",
-			"BannerAdsAc2": "admob",
+			"BannerAdsAc2": "facebook",
 			"BannerAdsAc3": "admob",
 
 			"InterAdsAc1": "admob",
-			"InterAdsAc2": "admob",
+			"InterAdsAc2": "facebook",
 			"InterAdsAc3": "admob",
 
-			"NativeAdsAc1": "admob",
+			"NativeAdsAc1": "facebook",
 			"NativeAdsAc2": "admob",
 			"NativeAdsAc3": "admob",
-			"NativeAdsAc4": "max",
+			"NativeAdsAc4": "facebook",
 			"NativeAdsAc5": "admob",
 
 			"BannerAdmob": "ca-app-pub-9656443482471903/7646544743",
