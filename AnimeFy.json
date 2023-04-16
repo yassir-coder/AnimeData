@@ -3,10 +3,10 @@
 		"AdsController": {
 		
 			"BannerAd": "",
-			"InterstitialAd": "facebook",
+			"InterstitialAd": "admob",
 			"NativeAd": "",
 			
-			"AdsCounter": "2",
+			"AdsCounter": "1",
 
 			"MyPromo": "no",
 			"Gift": "no",
