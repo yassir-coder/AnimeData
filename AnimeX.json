@@ -14,24 +14,24 @@
 
 			"BannerAdsAc1": "admob",
 			"BannerAdsAc2": "admob",
-			"BannerAdsAc3": "facebook",
+			"BannerAdsAc3": "admob",
 
 			"InterAdsAc1": "admob",
-			"InterAdsAc2": "facebook",
+			"InterAdsAc2": "admob",
 			"InterAdsAc3": "admob",
 
 			"NativeAdsAc1": "admob",
 			"NativeAdsAc2": "admob",
 			"NativeAdsAc3": "admob",
 			"NativeAdsAc4": "admob",
-			"NativeAdsAc5": "facebook",
+			"NativeAdsAc5": "admob",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob":  "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	"OpenAdmob":   "ca-app-pub-3940256099942544/3419835294",
+        "BannerAdmob": "ca-app-pub-9656443482471903/7024708152",
+        "InterAdmob":  "ca-app-pub-9656443482471903/1861717674",
+        "NativeAdmob": "ca-app-pub-9656443482471903/6922472660",
+	"OpenAdmob":   "ca-app-pub-9656443482471903/7075882884",
 
-	  "MaxBanner" : "bf58763ee725dae4",
+	        "MaxBanner" : "bf58763ee725dae4",
 		"MaxInter" :  "fa1ce7fbe89bf926",
 		"MaxNative" : "145ea6b5bc08ad72",
 	     
