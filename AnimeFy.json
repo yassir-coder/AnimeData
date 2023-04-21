@@ -3,7 +3,7 @@
 		"AdsController": {
 		
 			"BannerAd": "",
-			"InterstitialAd": "",
+			"InterstitialAd": "max",
 			"NativeAd": "",
 			
 			"AdsCounter": "1",
@@ -11,19 +11,19 @@
 			"MyPromo": "no",
 			"Gift": "no",
 
-			"BannerAdsAc1": "admob",
-			"BannerAdsAc2": "admob",
-			"BannerAdsAc3": "admob",
+			"BannerAdsAc1": "max",
+			"BannerAdsAc2": "max",
+			"BannerAdsAc3": "max",
 
-			"InterAdsAc1": "admob",
-			"InterAdsAc2": "admob",
-			"InterAdsAc3": "admob",
+			"InterAdsAc1": "max",
+			"InterAdsAc2": "max",
+			"InterAdsAc3": "max",
 
-			"NativeAdsAc1": "admob",
-			"NativeAdsAc2": "admob",
-			"NativeAdsAc3": "admob",
-			"NativeAdsAc4": "admob",
-			"NativeAdsAc5": "admob",
+			"NativeAdsAc1": "max",
+			"NativeAdsAc2": "max",
+			"NativeAdsAc3": "max",
+			"NativeAdsAc4": "max",
+			"NativeAdsAc5": "max",
 
 			"BannerAdmob": "ca-app-pub-9656443482471903/7646544743",
 			"InterAdmob":  "ca-app-pub-9656443482471903/6824417663",
