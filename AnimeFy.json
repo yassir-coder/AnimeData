@@ -15,14 +15,14 @@
 			"BannerAdsAc2": "admob",
 			"BannerAdsAc3": "admob",
 
-			"InterAdsAc1": "max",
-			"InterAdsAc2": "admob",
-			"InterAdsAc3": "max",
+			"InterAdsAc1": "admob",
+			"InterAdsAc2": "max",
+			"InterAdsAc3": "admob",
 
 			"NativeAdsAc1": "admob",
-			"NativeAdsAc2": "max",
+			"NativeAdsAc2": "admob",
 			"NativeAdsAc3": "admob",
-			"NativeAdsAc4": "max",
+			"NativeAdsAc4": "admob",
 			"NativeAdsAc5": "admob",
 
 			"BannerAdmob": "ca-app-pub-9656443482471903/7646544743",
