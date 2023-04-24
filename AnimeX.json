@@ -4,7 +4,7 @@
       {
 		  
 			"BannerAd": "",
-			"InterstitialAd": "max",
+			"InterstitialAd": "facebook",
 			"NativeAd": "",
 			
 			"AdsCounter": "2",
@@ -21,10 +21,10 @@
 			"InterAdsAc3": "max",
 
 			"NativeAdsAc1": "max",
-			"NativeAdsAc2": "max",
+			"NativeAdsAc2": "facebook",
 			"NativeAdsAc3": "max",
-			"NativeAdsAc4": "max",
-			"NativeAdsAc5": "max",
+			"NativeAdsAc4": "facebook",
+			"NativeAdsAc5": "facebook",
 		
         "BannerAdmob": "ca-app-pub-9656443482471903/7024708152",
         "InterAdmob":  "ca-app-pub-9656443482471903/1861717674",
