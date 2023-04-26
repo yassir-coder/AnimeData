@@ -4,7 +4,7 @@
       {
 		  
 			"BannerAd": "",
-			"InterstitialAd": "facebook",
+			"InterstitialAd": "max",
 			"NativeAd": "",
 			
 			"AdsCounter": "2",
@@ -23,13 +23,13 @@
 			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "facebook",
 			"NativeAdsAc3": "max",
-			"NativeAdsAc4": "facebook",
+			"NativeAdsAc4": "max",
 			"NativeAdsAc5": "facebook",
 		
-        "BannerAdmob": "ca-app-pub-9656443482471903/7024708152",
-        "InterAdmob":  "ca-app-pub-9656443482471903/1861717674",
-        "NativeAdmob": "ca-app-pub-9656443482471903/6922472660",
-	"OpenAdmob":   "ca-app-pub-9656443482471903/7075882884",
+        "BannerAdmob": "",
+        "InterAdmob":  "",
+        "NativeAdmob": "",
+	"OpenAdmob":   "",
 
 	        "MaxBanner" : "bf58763ee725dae4",
 		"MaxInter" :  "fa1ce7fbe89bf926",
