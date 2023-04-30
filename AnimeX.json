@@ -16,13 +16,13 @@
 			"BannerAdsAc2": "facebook",
 			"BannerAdsAc3": "facebook",
 
-			"InterAdsAc1": "max",
-			"InterAdsAc2": "facebook",
-			"InterAdsAc3": "max",
+			"InterAdsAc1": "facebook",
+			"InterAdsAc2": "max",
+			"InterAdsAc3": "facebook",
 
-			"NativeAdsAc1": "max",
+			"NativeAdsAc1": "facebook",
 			"NativeAdsAc2": "facebook",
-			"NativeAdsAc3": "max",
+			"NativeAdsAc3": "facebook",
 			"NativeAdsAc4": "facebook",
 			"NativeAdsAc5": "facebook",
 		
