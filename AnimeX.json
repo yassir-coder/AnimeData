@@ -12,12 +12,12 @@
 			"MyPromo": "no",
 			"Gift": "no",
 
-			"BannerAdsAc1": "facebook",
-			"BannerAdsAc2": "facebook",
-			"BannerAdsAc3": "facebook",
+			"BannerAdsAc1": "unity",
+			"BannerAdsAc2": "unity",
+			"BannerAdsAc3": "unity",
 
 			"InterAdsAc1": "max",
-			"InterAdsAc2": "max",
+			"InterAdsAc2": "unity",
 			"InterAdsAc3": "max",
 
 			"NativeAdsAc1": "max",
@@ -42,10 +42,10 @@
 		
 		"ironsource_appKey": "1011dee21",
 		
-		"unity_game_id": "3883855",
-		"unity_test": true,
-		"unity_banner": "banner",
-		"unity_interstitial": "video",
+		"unity_game_id": "5277196",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
 		
         "Cpa": false,
         "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
