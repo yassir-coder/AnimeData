@@ -3,7 +3,7 @@
 		"AdsController": {
 		
 			"BannerAd": "",
-			"InterstitialAd": "max",
+			"InterstitialAd": "facebook",
 			"NativeAd": "",
 			
 			"AdsCounter": "2",
@@ -22,8 +22,8 @@
 			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "max",
 			"NativeAdsAc3": "max",
-			"NativeAdsAc4": "max",
-			"NativeAdsAc5": "max",
+			"NativeAdsAc4": "facebook",
+			"NativeAdsAc5": "facebook",
 
 	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
