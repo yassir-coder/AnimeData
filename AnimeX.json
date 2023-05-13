@@ -54,6 +54,20 @@
 		},
 
 		"items": [
+			
+	 {
+        "title": "Demon Slayer: Swordsmith Village Arc",
+        "image": "https://assets.pikiran-rakyat.com/crop/3x0:655x492/x/photo/2023/04/11/3097377855.png",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Tanjiro journeys to a village of swordsmiths and has to explain how his sword was so badly damaged to Hotaru Haganezuka, the smith who made it. While Tanjiro waits for his sword to be repaired, enemies close in. The Mist Hashira, Muichiro Tokito, engages the demons, but he'll need some help from Tanjiro and Genya, another Demon Slayer. It's bad enough that they have to fight two upper-rank demons, but can they handle a foe who can split itself into four separate bodies and regenerate almost instantly?",
+        "isNative": false,
+		"background": "#FFE998"
+      },
 		  	 	    {
         "title": "Hell's Paradise: Jigokuraku",
         "image": "https://images.squarespace-cdn.com/content/v1/5ace4845e17ba35c9d8eb95e/8373d05a-821e-415d-afbc-ea967d21c5b9/gabimaru+and+sagiri+cover.PNG?format=1500w",
