@@ -23,8 +23,8 @@
 			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "max",
 			"NativeAdsAc3": "max",
-			"NativeAdsAc4": "",
-			"NativeAdsAc5": "",
+			"NativeAdsAc4": "facebook",
+			"NativeAdsAc5": "facebook",
 		
         "BannerAdmob": "",
         "InterAdmob":  "",
