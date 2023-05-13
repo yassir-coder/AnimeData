@@ -12,17 +12,17 @@
 			"MyPromo": "no",
 			"Gift": "no",
 
-			"BannerAdsAc1": "unity",
-			"BannerAdsAc2": "unity",
-			"BannerAdsAc3": "unity",
+			"BannerAdsAc1": "facebook",
+			"BannerAdsAc2": "facebook",
+			"BannerAdsAc3": "facebook",
 
 			"InterAdsAc1": "max",
 			"InterAdsAc2": "max",
 			"InterAdsAc3": "max",
 
-			"NativeAdsAc1": "max",
-			"NativeAdsAc2": "max",
-			"NativeAdsAc3": "max",
+			"NativeAdsAc1": "facebook",
+			"NativeAdsAc2": "facebook",
+			"NativeAdsAc3": "facebook",
 			"NativeAdsAc4": "max",
 			"NativeAdsAc5": "max",
 		
