@@ -54,8 +54,63 @@
 		},
 
 		"items": [
+		  	 	    {
+        "title": "Hell's Paradise: Jigokuraku",
+        "image": "https://images.squarespace-cdn.com/content/v1/5ace4845e17ba35c9d8eb95e/8373d05a-821e-415d-afbc-ea967d21c5b9/gabimaru+and+sagiri+cover.PNG?format=1500w",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Gabimaru the Hollow is one of the most vicious assassins ever to come out of the ninja village of Iwagakure. He’s ruthlessly efficient, but a betrayal results in him being handed a death sentence. He has only one hope—in order to earn his freedom, he must travel to a long-hidden island and recover an elixir that will make the shogun immortal. Failure is not an option. On this island, heaven and hell are just a hair’s breadth away.",
+        "isNative": false,
+		"background": "#FFE998"
+      },
+	  
+	    {
+        "title": "Oshi no Ko",
+        "image": "https://www.oshi-no-ko.online/wp-content/uploads/2021/06/oshi-no-ko.png",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Oshi no Ko (【推しの子】, “Favorite Girl” or “My Idol’s Child”) is a Japanese manga series written by Aka Akasaka and illustrated by Mengo Yokoyari. It has been serialized in Shueisha’s Weekly Young Jump since April 2020, with its chapters collected in three tankōbon volumes as of February 2021. \n\n  Story : \n\n  The story begins with a beautiful girl, her perfectly fake smile, and the people who love her selfishly for it. \n\n  What transpires behind the scenes of the glittering showbiz industry? How far would you go for the sake of your beloved idol? What would you do if you found out reincarnation was real? The star of the show is Aquamarine Hoshino and the stage is but a mere facade. Will he manage to reach the climax before the world of glamour swallows him whole?",
+        "isNative": false,
+		"background": "#FFE998"
+      },	 
+	  
+	    {
+        "title": "Vinland Saga (Season 2)",
+        "image": "https://external-preview.redd.it/rdcRsX9WtqRP9Ki5wD8fnleU2v8zob02gIoOgkVpm5Y.jpg?auto=webp&s=4b6c7640609066b6a912d0d85b1091ff9f606d88",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Vinland Saga (ヴィンランド・サガ), an epic adventure anime series that is especially popular overseas, came back in the beginning of 2023. After the 2019 first anime adaptation based on its original manga series serialized since 2005, the new season is made by Mappa, which is also famous for Chainsaw Man and Jujutsu Kaisen. The second season enters a new story arc following the young Viking protagonist Thorfinn, who lost his purpose in life after his long-standing enemy Askeladd died.",
+        "isNative": false,
+		"background": "#FFE998"
+      },	 
+	  
+	    {
+        "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa",
+        "image": "https://i0.wp.com/erzat.blog/wp-content/uploads/2022/08/Isekai-de-Cheat-Skill-wo-Te-ni-Shita-Ore-wa-Genjitsu-Sekai-wo-mo-Musou-Suru-Level-Up-wa-Jinsei-wo-Kaeta-Vol.-11-1-e1661442860778.jpg?fit=1057%2C596&ssl=1",
+        "color": "#57370D",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "",
+        "text": "Tenjou Yuuya has been a bullied boy since the past. He lives in the home of his beloved grandfather while he goes to school. As usual, he receives a harsh bullying, and he takes an extended absence from school to have some time to heal his wounds. \n\n  While on this long time of absence, he takes the opportunity to clean his grandfather's house and goes to a room he never went before, where his grandfather keep many different objects that he gathered from his travels around the world. While he was arranging the objects, he found a door not on a wall among the objects. \n\n  Out of curiosity he opens this door, what he found on the other side was...",
+        "isNative": false,
+		"background": "#FFE998"
+      },
 			
-				  				  	    {
+	{
         "title": "Solo Leveling",
         "image": "https://i.postimg.cc/66SsC0tP/solo-leveling.jpg",
 		"color": "#EEF2E6",
