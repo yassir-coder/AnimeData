@@ -12,9 +12,9 @@
 			"MyPromo": "no",
 			"Gift": "no",
 
-			"BannerAdsAc1": "facebook",
-			"BannerAdsAc2": "facebook",
-			"BannerAdsAc3": "facebook",
+			"BannerAdsAc1": "max",
+			"BannerAdsAc2": "max",
+			"BannerAdsAc3": "max",
 
 			"InterAdsAc1": "max",
 			"InterAdsAc2": "max",
